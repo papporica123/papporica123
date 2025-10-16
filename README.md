@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+i am ganesh chandrasekhar.m, papporica is my username and gaming tag
+i am currently working on python and java
+i am still a learner in programming languages but i am fluent in HTML, CSS, JS as related to web design, java and my most fluent and worked upon language is python
+you can reach me at papporica123@gmail.com or on instagram
 <!--
 **papporica123/papporica123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
